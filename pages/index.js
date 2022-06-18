@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 import { ConnectButton } from '@rainbow-me/rainbowkit';
 
 export default function Home() {
+  //18/6/22
   return (
     <div className={styles.container}>
       <Head>
